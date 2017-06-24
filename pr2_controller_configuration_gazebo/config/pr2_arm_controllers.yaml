@@ -28,19 +28,19 @@ r_arm_controller:
     constraints:
       goal_time: 0.6
       r_shoulder_pan_joint:
-        goal: 0.02
+        goal: 0.04
       r_shoulder_lift_joint:
-        goal: 0.02
+        goal: 0.04
       r_upper_arm_roll_joint:
-        goal: 0.02
+        goal: 0.04
       r_elbow_flex_joint:
-        goal: 0.02
+        goal: 0.04
       r_forearm_roll_joint:
-        goal: 0.02
+        goal: 0.04
       r_wrist_flex_joint:
-        goal: 0.02
+        goal: 0.04
       r_wrist_roll_joint:
-        goal: 0.02
+        goal: 0.04
   
 
 
@@ -76,16 +76,16 @@ l_arm_controller:
     constraints:
       goal_time: 0.6
       l_shoulder_pan_joint:
-        goal: 0.02
+        goal: 0.04
       l_shoulder_lift_joint:
-        goal: 0.02
+        goal: 0.04
       l_upper_arm_roll_joint:
-        goal: 0.02
+        goal: 0.04
       l_elbow_flex_joint:
-        goal: 0.02
+        goal: 0.04
       l_forearm_roll_joint:
-        goal: 0.02
+        goal: 0.04
       l_wrist_flex_joint:
-        goal: 0.02
+        goal: 0.04
       l_wrist_roll_joint:
-        goal: 0.02
+        goal: 0.04
